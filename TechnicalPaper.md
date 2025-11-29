@@ -115,12 +115,6 @@ For our project, using Redis and caching some repeated queries should help us so
 **References**
 ---
 
-Hachem, J., Karamchandani, N., Diggavi, S., & Moharir, S. (2020). Coded Caching for Heterogeneous Wireless Networks. arXiv preprint arXiv:2006.01025v1. https://arxiv.org/pdf/2006.01025v1
-
-Khare, M., & Young, N. E. (2012). File Caching with Rental Cost and Zapping. arXiv preprint arXiv:1208.2724v5. https://arxiv.org/pdf/1208.2724v5
-
-Paschos, G. S., Iosifidis, G., Tao, M., Towsley, D., & Caire, G. (2018). The Role of Caching in Future Communication Systems and Networks. arXiv preprint arXiv:1805.11721v1. https://arxiv.org/pdf/1805.11721v1
-
-Paschos, G., Baştuğ, E., Land, I., Caire, G., & Debbah, M. (2016). Wireless Caching: Technical Misconceptions and Business Barriers. arXiv preprint arXiv:1602.00173v2. https://arxiv.org/pdf/1602.00173v2
-
-Pervej, M. F., Tan, L. T., & Hu, R. Q. (2020). Artificial Intelligence Assisted Collaborative Edge Caching in Small Cell Networks. arXiv preprint arXiv:2005.07941v2. https://arxiv.org/pdf/2005.07941v2
+ - [Caching - System Design Concept](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geeksforgeeks.org/system-design/caching-system-design-concept-for-beginners/&ved=2ahUKEwi95fK4gJeRAxU-S2wGHctJCTYQFnoECBcQAQ&usg=AOvVaw1cvkhd7YFOyeLcQM7XHim6)
+ - [What is Caching and How it Works](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aws.amazon.com/caching/&ved=2ahUKEwi95fK4gJeRAxU-S2wGHctJCTYQFnoECGQQAQ&usg=AOvVaw1hsdvXFxFoKBEwmQMx0CU-)
+ - [What is caching? | How is a website cached?](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cloudflare.com/learning/cdn/what-is-caching/&ved=2ahUKEwi95fK4gJeRAxU-S2wGHctJCTYQFnoECE4QAQ&usg=AOvVaw2VkVVojCtuW8tu9muxxGUi)
