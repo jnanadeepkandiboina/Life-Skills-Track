@@ -112,3 +112,15 @@ Caching is a simple but very powerful way to improve the performance of an appli
 By storing frequently used data in a faster place, we can avoid unnecessary work.
 For our project, using Redis and caching some repeated queries should help us solve many performance and scaling problems.
 
+**References**
+---
+
+Hachem, J., Karamchandani, N., Diggavi, S., & Moharir, S. (2020). Coded Caching for Heterogeneous Wireless Networks. arXiv preprint arXiv:2006.01025v1. https://arxiv.org/pdf/2006.01025v1
+
+Khare, M., & Young, N. E. (2012). File Caching with Rental Cost and Zapping. arXiv preprint arXiv:1208.2724v5. https://arxiv.org/pdf/1208.2724v5
+
+Paschos, G. S., Iosifidis, G., Tao, M., Towsley, D., & Caire, G. (2018). The Role of Caching in Future Communication Systems and Networks. arXiv preprint arXiv:1805.11721v1. https://arxiv.org/pdf/1805.11721v1
+
+Paschos, G., Baştuğ, E., Land, I., Caire, G., & Debbah, M. (2016). Wireless Caching: Technical Misconceptions and Business Barriers. arXiv preprint arXiv:1602.00173v2. https://arxiv.org/pdf/1602.00173v2
+
+Pervej, M. F., Tan, L. T., & Hu, R. Q. (2020). Artificial Intelligence Assisted Collaborative Edge Caching in Small Cell Networks. arXiv preprint arXiv:2005.07941v2. https://arxiv.org/pdf/2005.07941v2
