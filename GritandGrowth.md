@@ -2,11 +2,12 @@
 ===
 
 1. Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.
----
+***
 Ans: We should keep a growth mindset that treats failures as chance to learn. In long run,
     staying committed and putting in consistent efforts matters more for success than talent.
 
-2. Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
+
+3. Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
 ---
 Ans: People with a growth 
 
