@@ -1,21 +1,23 @@
 **Energy Management**
-**Question-1: What are the activities you do that make you relax - Calm quadrant?**
+===
+**1: What are the activities you do that make you relax - Calm quadrant?**
+---
 1. Listening to instrumental music
 2. Mindful walks
 3. Organizing my workspace desk
 4. Breathing exercises
 
-## Question-2: When do you find getting into the Stress quadrant?
+## 2: When do you find getting into the Stress quadrant?
 1. Rushing to meet deadlines
 2. Trying to learn too many tools at once
 
-## Question-3: How do you understand if you are in the Excitement quadrant?
+## 3: How do you understand if you are in the Excitement quadrant?
 To understand if you are in the Excitement quadrant, observe the following signs:
 - You feel energized and engaged with what you are doing.
 - There is a positive emotional intensity, such as enthusiasm, joy, or eagerness.
 - You experience motivation and a heightened focus on tasks or activities.
 
-## Question 4: Paraphrase the *Sleep is your Superpower* video in brief (only points)
+## 4: Paraphrase the *Sleep is your Superpower* video in brief (only points)
 
 - Sleep is essential for memory formation: needed both before and after learning.
 - Deep sleep brainwaves and sleep spindles help transfer memories to long-term storage.
@@ -26,7 +28,7 @@ To understand if you are in the Excitement quadrant, observe the following signs
 - Tips for better sleep: maintain regular sleep timing and keep bedroom temperature cool (~18°C).
 - If unable to sleep, leave the bed and return only when sleepy to avoid negative associations.
 
-## Question 5: Ideas to implement for better sleep
+## 5: Ideas to implement for better sleep
 
 - Maintain a consistent bedtime and wake-up time every day including weekends.
 - Keep the bedroom cool, around 18 degrees Celsius.
@@ -37,7 +39,7 @@ To understand if you are in the Excitement quadrant, observe the following signs
 - Limit screen time and bright light exposure before sleep.
 - Ensure the sleep environment is comfortable, dark, and quiet.
 
-## Question 6: Paraphrase the *Brain Changing Benefits of Exercise* video (minimum 5 points)
+## 6: Paraphrase the *Brain Changing Benefits of Exercise* video (minimum 5 points)
 
 - Exercise immediately boosts brain neurotransmitters like dopamine, serotonin, and noradrenaline.
 - A single workout improves mood, attention span, and reaction time temporarily.
@@ -47,7 +49,7 @@ To understand if you are in the Excitement quadrant, observe the following signs
 - The prefrontal cortex benefits help improve decision-making, focus, and personality traits.
 - Recommended exercise is 3-4 times a week, minimum 30 minutes per session, focusing on aerobic activity.
 
-## Question 7: Steps to exercise more
+## 7: Steps to exercise more
 
 - Incorporate activities you enjoy to stay motivated (e.g., dancing, yoga, walking).
 - Start with manageable durations and gradually increase intensity.
